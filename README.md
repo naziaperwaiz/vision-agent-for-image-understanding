@@ -23,6 +23,16 @@ solve your vision task. Check out our discord for updates and roadmaps!
 - [💻🤖VisionAgent Coder](#visionagent-coder)
 - [🏗️Additional Backends](#additional-backends)
 
+## Experimented for Image Understanding with VisionAgent
+
+### VisionAgent Workflow Screenshots
+This [document](https://github.com/naziaperwaiz/vision-agent-for-image-understanding/blob/main/VisionAgent_Output.pdf) contains the image, and the query which was asked by VisionAgent, the detailed processing of VisionAgent using available tools, and the final colclusion by the agent. The processing screenshots are added to provide the insights about VisionAgent thinking process.
+
+### Streamlit Application
+This [video](https://github.com/naziaperwaiz/vision-agent-for-image-understanding/blob/main/demo_vision_agents.mp4) showcases a simple streamlit app which provides GUI to user for image uploading, query provision and to see the results.
+
+
+
 ## Quick Start
 ### Web Application
 The fastest way to test out VisionAgent is to use our web application. You can find it
@@ -54,13 +64,6 @@ You must have the Anthropic API key set in your environment variables to use
 VisionAgent. If you don't have an Anthropic key you can use another provider like
 OpenAI or Ollama.
 ---
-
-#### Experimented for Image Understanding with VisionAgent
-This [document](https://github.com/naziaperwaiz/vision-agent-for-image-understanding/blob/main/VisionAgent_Output.pdf) contains the image, and the query which was asked by VisionAgent, the detailed processing of VisionAgent using available tools, and the final colclusion by the agent. The processing screenshots are added to provide the insights about VisionAgent thinking process.
-
-This [video](https://github.com/naziaperwaiz/vision-agent-for-image-understanding/blob/main/demo_vision_agents.mp4) showcases a simple streamlit app which provides GUI to user for image uploading, query provision and to see the results.
-
-
 
 #### Chatting with VisionAgent
 To get started you can just import the `VisionAgent` and start chatting with it:
